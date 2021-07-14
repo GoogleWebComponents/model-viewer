@@ -1,0 +1,5 @@
+commit 4dfa5bf3e0bb6860c7a87ccd4b6b1c03fa20e1c5
+Author: Emmett Lalish <elalish@google.com>
+Date:   Wed Jul 14 15:27:40 2021 -0700
+
+    fix Deploy by removing unneeded polyfills (#2576)
